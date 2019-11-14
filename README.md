@@ -1,2 +1,5 @@
-# z20dual
-Dual Speaker Mod For Nubia Z20
+## Changelog
+
+v1
+
+- Initial Release

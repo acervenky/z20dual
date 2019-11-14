@@ -1,0 +1,7 @@
+id=z20dual
+name=Nubia Z20 Dual Speaker Mod
+version=v1
+versionCode=1
+author=acervenky
+description=Use earpiece as a secondary speaker
+minMagisk=1500
